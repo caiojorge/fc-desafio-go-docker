@@ -22,12 +22,12 @@ docker login
 docker push caiojorge/fullcycle
 https://hub.docker.com/repository/docker/caiojorge/fullcycle/general
 
-# Size com scracth
+# Size com scratch
 docker images caiojorge/fullcycle
 REPOSITORY            TAG       IMAGE ID       CREATED          SIZE
 caiojorge/fullcycle   latest    a964e35cb584   36 seconds ago   1.8MB
 
-# Size em scracth
+# Size em scratch
 docker images caiojorge/fullcycle
 REPOSITORY            TAG       IMAGE ID       CREATED          SIZE
 caiojorge/fullcycle   latest    2c035b3079a7   12 seconds ago   249MB
